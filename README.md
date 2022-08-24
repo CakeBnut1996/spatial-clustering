@@ -1,6 +1,8 @@
-# Link Classification Based on Spatial Patterns
+# Road Segments Classification Based on Spatial Patterns
 
 Brief description: Customize distance matrix based on road adjacency, daily speed profiles (using dynamic time warping), and geolocations to cluster road networks in order to develop different models to predict future speeds
+
+Data source: INRIX (not included in the data)
 
 Objective
 - To group links whose have similar traffic patterns together.
